@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Copyright 2017 Adeleke Akinade  (email : adeleke.akinade@yahoo.co.uk)
+ *
+ * See license.txt for full license information.
+ */
+
 spl_autoload_register(function($class) {
   $prefix = 'app\\';
   
