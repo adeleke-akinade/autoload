@@ -1,0 +1,6 @@
+{
+  "name": "adeleke-akinade/autoload",
+  "require": {
+    "monolog/monolog": "1.0.*"
+  }
+}
