@@ -1,5 +1,5 @@
 {
-  "name": "adeleke-akinade/autoload",
+  "name": "irubi/autoload",
   "require": {
     "monolog/monolog": "1.0.*"
   }
